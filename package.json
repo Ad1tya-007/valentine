@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "semver": "^7.6.0"
   },
   "devDependencies": {
     "@nabla/vite-plugin-eslint": "^1.5.0",
